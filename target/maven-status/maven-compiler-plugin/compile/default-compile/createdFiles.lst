@@ -1,0 +1,11 @@
+MFlash$Flashing.class
+MFlash$Interfaces.class
+MFlash$PhoneModel.class
+MFlash$ToJSON.class
+MFlash$Header.class
+MFlash$Sparsing.class
+MFlash.class
+MFlash$Steps.class
+MFlash$Interface.class
+MFlash$Step.class
+MFlash$SoftwareVersion.class
